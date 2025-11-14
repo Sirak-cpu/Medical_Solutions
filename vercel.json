@@ -1,8 +1,0 @@
-{
-  "rewrites": [
-    {
-      "source": "/Medical_Solutions/(.*)",
-      "destination": "/Medical_Solutions/index.html"
-    }
-  ]
-}
